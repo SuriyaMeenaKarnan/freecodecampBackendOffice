@@ -2,7 +2,6 @@
   "name": "freecodecampbackendoffice",
   "version": "1.0.0",
   "description": "freecodecampBackendOffice",
-  "main": "index.js",
   "scripts": {
     "test": "run"
   },
