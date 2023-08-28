@@ -12,6 +12,7 @@
   },
   "author": "Jane Doe",
   "license": "ISC",
+  "keywords": ["freecodecamp"],
   "bugs": {
     "url": "https://github.com/SuriyaMeenaKarnan/freecodecampBackendOffice/issues"
   },
