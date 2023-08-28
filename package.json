@@ -8,11 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SuriyaMeenaKarnan/freecodecampBackendOffice.git"
+    "url": "https://github.com/SuriyaMeenaKarnan/freecodecampBackendOffice.git"
   },
-  "author": "Jane Doe",
+  "author": "SuriyaMeenaKarnan",
   "license": "ISC",
-  "keywords": ["freecodecamp"],
   "bugs": {
     "url": "https://github.com/SuriyaMeenaKarnan/freecodecampBackendOffice/issues"
   },
